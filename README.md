@@ -15,8 +15,7 @@ I’m learning Python and exploring how data, economic news, and market sentimen
 <img src="https://img.shields.io/badge/Python-Learning-0B132B?style=flat-square&logo=python&logoColor=00B386" alt="Python"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Excel-Analytics-0B132B?style=flat-square&logo=microsoftexcel&logoColor=00B386" alt="Excel"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-Visualisation-0B132B?style=flat-square&logo=powerbi&logoColor=00B386" alt="Power BI"/>
+&nbsp;<img src="https://img.shields.io/badge/Power%20BI-Visualisation-0B132B?style=flat-square&logo=powerbi&logoColor=00B386" alt="Power BI"/>
 
 CURRENT INTERESTS
 
@@ -31,9 +30,7 @@ Energy Markets   Macroeconomics   Data Analytics
 
 🛢️ Oil Market Intelligence
 
-A personal project idea exploring the relationship between crude oil prices, financial news, and market movements.
-
-More analysis, less noise.
+A personal project idea exploring the relationship between crude oil prices, financial news, and market movements. More analysis, less noise.
 
 ⸻
 
