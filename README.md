@@ -9,7 +9,7 @@ Financial Markets · Python · Analytics
 
 Hey, I’m an aspiring financial data analyst.
 
-I’m learning Python and exploring how data, economic news, and market sentiment influence financial markets — especially crude oil.
+I’m learning Python and exploring how data, economic news, and market sentiment influence financial markets - especially crude oil.
 
 <br>
 <img src="https://img.shields.io/badge/Python-Learning-0B132B?style=flat-square&logo=python&logoColor=00B386" alt="Python"/>
