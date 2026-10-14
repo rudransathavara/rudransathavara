@@ -1,136 +1,79 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================================================== -->
+<!-- FINANCE & MARKET ANALYTICS GITHUB PROFILE          -->
+<!-- Replace YOUR_USERNAME and YOUR_LINKEDIN            -->
+<!-- ================================================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:111827,100:064e3b&text=YOUR_NAME&fontColor=ecfdf5&fontSize=54&fontAlignY=38&desc=AI%20%7C%20DATA%20%7C%20FINANCIAL%20MARKETS&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Profile banner"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Data+Science+%26+Analytics;Exploring+Quantitative+Finance;Learn.+Build.+Improve." alt="Animated introduction"/>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-111827?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="Explore projects"/>
-</a>
-<img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Building-064e3b?style=flat-square&labelColor=09090b" alt="Learning and building"/>
-</div>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:123C69,100:16A085&height=200&section=header&text=Finance%20%26%20Market%20Analytics&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=Markets%20%7C%20Data%20%7C%20Technology&descAlignY=58&descSize=16" width="100%" alt="Finance and Market Analytics banner" />
+<br>
 
-⸻
+Hello, I’m an Aspiring Financial & Market Data Analyst
 
-<!-- ==================== ABOUT ME ==================== -->
+Learning Python | Exploring Financial Markets | Building Analytical Skills
 
-01 / About Me
+I am developing my skills in data analysis and financial markets, with an interest in understanding how economic news, market sentiment, and global events influence asset prices.
 
-<img align="right" width="140" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-I’m interested in the intersection of artificial intelligence, data, and financial markets.
-
-My goal is to build practical projects that explore how technology can turn complex information into meaningful insights.
-
-* Exploring artificial intelligence and machine learning.
-* Learning Python and data analysis.
-* Developing an understanding of predictive modelling.
-* Exploring quantitative finance and financial markets.
-* Building projects and learning through experimentation.
-
-<br clear="right"/>
-
-⸻
-
-<!-- ==================== TECHNOLOGY ==================== -->
-
-02 / Technology & Tools
-
-<div align="center">
-
-Languages & Development
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and Visual Studio Code"/>
-
-Areas of Interest
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logoColor=6ee7b7" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logoColor=6ee7b7" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge&logoColor=6ee7b7" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/Quantitative_Finance-111827?style=for-the-badge&logoColor=6ee7b7" alt="Quantitative Finance"/>
 </div>
 
 ⸻
 
-<!-- ==================== PROJECTS ==================== -->
+About Me
 
-03 / Projects
+* 📊 Building a foundation in financial and business data analysis.
+* 🐍 Currently learning Python for data analysis and automation.
+* 📈 Using Microsoft Excel to organise, analyse, and interpret data.
+* 📉 Learning Power BI to create dashboards and communicate insights.
+* 🛢️ Interested in crude oil prices, commodities, macroeconomics, and market-moving news.
+* 🎯 Working towards combining financial knowledge with data-driven analysis.
+
+⸻
+
+Technical Skills
+
+<div align="center">
+
+Skill	Current Focus
+🐍 Python	Learning programming fundamentals and data analysis
+📊 Microsoft Excel	Spreadsheet analysis, formulas, and data organisation
+📈 Power BI	Data visualisation, reports, and dashboards
+💹 Financial Markets	Learning about commodities, oil prices, and market drivers
+📰 Market Research	Exploring economic news and events that influence prices
+
+</div>
+
+Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-Skills-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-Skills-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+⸻
+
+Financial Interests
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-◈ Oil Market Intelligence AI
+🛢️ Energy & Commodities
 
-An upcoming research project exploring how financial news, geopolitical events, and historical crude oil prices relate to oil market movements.
-
-Planned technologies
-
-Python AI Machine Learning
-
-Status: Planning
+* Crude oil price movements
+* Supply and demand
+* OPEC+ decisions
+* Geopolitical developments
+* Energy-market fundamentals
 
 </td>
 <td width="50%" valign="top">
 
-◈ Future Experiments
+🌍 Macroeconomics & Markets
 
-A space for future projects exploring intelligent systems, data analysis, automation, and predictive modelling.
-
-Areas of interest
-
-Data Research AI
-
-Status: Exploring
-
-</td>
-</tr>
-</table>
-<div align="center">
-
-More projects coming as I learn, build, and experiment.
-
-</div>
-
-⸻
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-04 / Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-01 — Learn
-
-Developing foundations in Python, Git, and software development.
-
-</td>
-<td width="50%" valign="top">
-
-02 — Explore
-
-Understanding machine learning, data analysis, and financial markets.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-03 — Build
-
-Turning ideas into practical, documented projects.
-
-</td>
-<td width="50%" valign="top">
-
-04 — Improve
-
-Testing ideas, learning from results, and refining my approach.
+* Inflation and interest rates
+* Economic indicators
+* US dollar movements
+* Market sentiment
+* News-driven volatility
 
 </td>
 </tr>
@@ -138,34 +81,68 @@ Testing ideas, learning from results, and refining my approach.
 
 ⸻
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+Projects
 
-05 / GitHub Analytics
+🛢️ Oil Market News & Price Analysis
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=09090b&title_color=6ee7b7&icon_color=6ee7b7&text_color=d4d4d8&ring_color=6ee7b7&include_all_commits=true" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=09090b&title_color=6ee7b7&text_color=d4d4d8" alt="Most used programming languages"/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=09090b&color=6ee7b7&line=10b981&point=ecfdf5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution graph"/>
-</div>
+Status: Planned / In Development
+
+My planned first project is to explore whether financial and economic news can help explain or anticipate movements in crude oil prices.
+
+Planned objectives:
+
+* Collect historical oil-price data.
+* Explore news and major market events.
+* Learn how to clean and analyse data using Python.
+* Investigate relationships between news, market sentiment, and price movements.
+* Build charts and summaries to communicate findings.
+* Explore simple predictive models as my skills develop.
+
+Planned tools: Python, Excel, Power BI, and financial-market datasets.
+
+This is a learning project, not a finished prediction system or investment recommendation.
 
 ⸻
 
-<!-- ==================== CONNECT ==================== -->
+Current Learning Roadmap
 
-06 / Connect
+* Build a foundation in Microsoft Excel.
+* Begin developing Power BI skills.
+* Learn Python fundamentals.
+* Practise data analysis with pandas.
+* Learn how to work with financial datasets.
+* Analyse historical crude oil prices.
+* Create a Power BI dashboard for market data.
+* Explore introductory statistics and time-series analysis.
+* Develop and evaluate a simple oil-price forecasting model.
+
+⸻
+
+My Approach
+
+Understand the data. Study the market drivers. Test the evidence. Communicate the results.
+
+I am interested in using data to explore financial-market questions, while learning to distinguish meaningful patterns from noise and correlation from causation.
+
+⸻
+
+Let’s Connect
+
+I’m interested in connecting with people working in financial analysis, data analytics, commodities, and financial technology.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+⸻
 
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="GitHub"/>
-</a>
-<!-- Replace YOUR_LINKEDIN with your LinkedIn profile URL, or remove this button. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=6ee7b7" alt="LinkedIn"/>
-</a>
 
-Interested in AI, data-driven systems, and quantitative research.
+FINANCE · DATA · MARKETS
 
-Building with curiosity. Improving with every iteration.
+Learning continuously. Building projects. Following the data.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:111827,100:09090b&height=110&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:123C69,100:0B132B&height=100&section=footer" width="100%" alt="Decorative footer" />
 </div>
