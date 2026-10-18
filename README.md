@@ -4,7 +4,7 @@
 
 <br>
 
-Financial Markets · Python · Analytics · Finance Technology
+Financial Markets · Python · Analytics · Fintech
 
 </div>
 
